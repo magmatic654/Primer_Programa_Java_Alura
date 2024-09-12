@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5945b27-9795-4806-ad83-ba8f712e7f81" name="Changes" comment="Primer programa en Java">
+    <list default="true" id="e5945b27-9795-4806-ad83-ba8f712e7f81" name="Changes" comment="Añadiendo datos de la pelicula">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -82,11 +82,20 @@
       <option name="project" value="LOCAL" />
       <updated>1726095508895</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Añadiendo datos de la pelicula">
+      <option name="closed" value="true" />
+      <created>1726096621796</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726096621796</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primer programa en Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primer programa en Java" />
+    <MESSAGE value="Añadiendo datos de la pelicula" />
+    <option name="LAST_COMMIT_MESSAGE" value="Añadiendo datos de la pelicula" />
   </component>
 </project>

@@ -10,5 +10,13 @@ public class Main{
         double average = (8.2 + 6.0 + 9.0) / 3;
 
         System.out.println(average);
+
+        String synospis = """
+                Matrix es una paradoja
+                La mejor pelicula del fin del milenio
+                Fue lanzada en:
+                """ + releaseDate + ", Su calificacion es: " + average + " Incluido: " + planInclude;
+
+        System.out.println(synospis);
     }
 }
