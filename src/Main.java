@@ -7,7 +7,7 @@ public class Main{
         boolean planInclude = true;
         double filmRating = 8.2;
 
-        double average = (8.2 + 6.0 + 9.0) / 3;
+        double average = (8.2 + 9.5 + 9.0) / 3;
 
         System.out.println(average);
 
@@ -16,7 +16,8 @@ public class Main{
                 La mejor pelicula del fin del milenio
                 Fue lanzada en:
                 """ + releaseDate + ", Su calificacion es: " + average + " Incluido: " + planInclude;
-
         System.out.println(synospis);
+        float rating = (float) average / 2;
+        System.out.println(rating + " estrellas");
     }
 }
