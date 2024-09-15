@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5945b27-9795-4806-ad83-ba8f712e7f81" name="Changes" comment="Utilizando Loops en Java">
-      <change afterPath="$PROJECT_DIR$/src/Evaluaciones.java" afterDir="false" />
+    <list default="true" id="e5945b27-9795-4806-ad83-ba8f712e7f81" name="Changes" comment="Condicionales dentro de loops">
+      <change afterPath="$PROJECT_DIR$/src/Desafio_Adivinanzas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Decisiones.executor": "Run",
+    "Application.Desafio_Adivinanzas.executor": "Run",
+    "Application.Evaluaciones.executor": "Run",
     "Application.Lectura.executor": "Run",
     "Application.Loops.executor": "Run",
     "Application.Main.executor": "Run",
@@ -63,6 +65,11 @@
     "last_opened_file_path": "C:/Users/harol/OneDrive/Escritorio/Alura/Java_creando_tu_primera_aplicacion/PrimerPrograma"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\harol\OneDrive\Escritorio\Alura\Java_creando_tu_primera_aplicacion\PrimerPrograma\src" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Loops" />
@@ -150,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726362559253</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Condicionales dentro de loops">
+      <option name="closed" value="true" />
+      <created>1726363615243</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1726363615243</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -161,6 +176,7 @@
     <MESSAGE value="Operadores condicionales en Java" />
     <MESSAGE value="Utilizando la funcion scanner para ingresar diversos tipos de datos en varriables" />
     <MESSAGE value="Utilizando Loops en Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Utilizando Loops en Java" />
+    <MESSAGE value="Condicionales dentro de loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="Condicionales dentro de loops" />
   </component>
 </project>
