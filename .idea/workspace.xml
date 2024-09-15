@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5945b27-9795-4806-ad83-ba8f712e7f81" name="Changes" comment="Agregando rating de estrellas en la pelicula">
-      <change afterPath="$PROJECT_DIR$/src/Decisiones.java" afterDir="false" />
+    <list default="true" id="e5945b27-9795-4806-ad83-ba8f712e7f81" name="Changes" comment="Operadores condicionales en Java">
+      <change afterPath="$PROJECT_DIR$/src/Lectura.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,9 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2lwbYACiTJOqsqHYyZIdS64EIvx" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,6 +54,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Decisiones.executor": "Run",
+    "Application.Lectura.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -114,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726117954253</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Operadores condicionales en Java">
+      <option name="closed" value="true" />
+      <created>1726196571223</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726196571223</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -122,6 +133,7 @@
     <MESSAGE value="Añadiendo datos de la pelicula" />
     <MESSAGE value="Utilizando strings por bloque y concatenando variables al string" />
     <MESSAGE value="Agregando rating de estrellas en la pelicula" />
-    <option name="LAST_COMMIT_MESSAGE" value="Agregando rating de estrellas en la pelicula" />
+    <MESSAGE value="Operadores condicionales en Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Operadores condicionales en Java" />
   </component>
 </project>
