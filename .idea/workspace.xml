@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5945b27-9795-4806-ad83-ba8f712e7f81" name="Changes" comment="Utilizando la funcion scanner para ingresar diversos tipos de datos en varriables">
-      <change afterPath="$PROJECT_DIR$/src/Loops.java" afterDir="false" />
+    <list default="true" id="e5945b27-9795-4806-ad83-ba8f712e7f81" name="Changes" comment="Utilizando Loops en Java">
+      <change afterPath="$PROJECT_DIR$/src/Evaluaciones.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +63,7 @@
     "last_opened_file_path": "C:/Users/harol/OneDrive/Escritorio/Alura/Java_creando_tu_primera_aplicacion/PrimerPrograma"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Loops">
+  <component name="RunManager">
     <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Loops" />
       <module name="PrimerPrograma" />
@@ -142,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726362013769</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Utilizando Loops en Java">
+      <option name="closed" value="true" />
+      <created>1726362559253</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726362559253</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -152,6 +160,7 @@
     <MESSAGE value="Agregando rating de estrellas en la pelicula" />
     <MESSAGE value="Operadores condicionales en Java" />
     <MESSAGE value="Utilizando la funcion scanner para ingresar diversos tipos de datos en varriables" />
-    <option name="LAST_COMMIT_MESSAGE" value="Utilizando la funcion scanner para ingresar diversos tipos de datos en varriables" />
+    <MESSAGE value="Utilizando Loops en Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Utilizando Loops en Java" />
   </component>
 </project>
